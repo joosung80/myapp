@@ -1,0 +1,99 @@
+[
+  {
+    "name": "김철수",
+    "phone": "010-1234-5678",
+    "companyEmail": "cheolsu@company1.com",
+    "company": "Company1",
+    "title": "개발자",
+    "companySize": "1-10"
+  },
+  {
+    "name": "이영희",
+    "phone": "010-8765-4321",
+    "companyEmail": "young@company2.com",
+    "company": "Company2",
+    "title": "디자이너",
+    "companySize": "11-50"
+  },
+  {
+    "name": "박민수",
+    "phone": "010-1111-2222",
+    "companyEmail": "minsu@company3.com",
+    "company": "Company3",
+    "title": "매니저",
+    "companySize": "51-200"
+  },
+  {
+    "name": "최지은",
+    "phone": "010-3333-4444",
+    "companyEmail": "jieun@company4.com",
+    "company": "Company4",
+    "title": "CEO",
+    "companySize": "201+"
+  },
+  {
+    "name": "정호준",
+    "phone": "010-5555-6666",
+    "companyEmail": "hojun@company5.com",
+    "company": "Company5",
+    "title": "엔지니어",
+    "companySize": "1-10"
+  },
+  {
+    "name": "송아름",
+    "phone": "010-7777-8888",
+    "companyEmail": "areum@company6.com",
+    "company": "Company6",
+    "title": "마케터",
+    "companySize": "11-50"
+  },
+  {
+    "name": "윤태호",
+    "phone": "010-9999-0000",
+    "companyEmail": "taeho@company7.com",
+    "company": "Company7",
+    "title": "HR",
+    "companySize": "51-200"
+  },
+  {
+    "name": "한수진",
+    "phone": "010-2222-3333",
+    "companyEmail": "sujin@company8.com",
+    "company": "Company8",
+    "title": "개발자",
+    "companySize": "201+"
+  },
+  {
+    "name": "오민준",
+    "phone": "010-4444-5555",
+    "companyEmail": "minjun@company9.com",
+    "company": "Company9",
+    "title": "디자이너",
+    "companySize": "1-10"
+  },
+  {
+    "name": "서지현",
+    "phone": "010-6666-7777",
+    "companyEmail": "jihyun@company10.com",
+    "company": "Company10",
+    "title": "매니저",
+    "companySize": "11-50"
+  },
+  {
+    "name": "강도현",
+    "phone": "010-8888-9999",
+    "companyEmail": "dohyun@company11.com",
+    "company": "Company11",
+    "title": "CEO",
+    "companySize": "51-200"
+  },
+  {
+    "name": "임나래",
+    "phone": "010-0000-1111",
+    "companyEmail": "narae@company12.com",
+    "company": "Company12",
+    "title": "엔지니어",
+    "companySize": "201+"
+  }
+]
+
