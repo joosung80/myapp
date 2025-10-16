@@ -52,7 +52,9 @@ export default function Stats() {
           <Link href="/survey">
             <div className="glass-button inline-block">새 설문 시작</div>
           </Link>
-          <a href="/" className="ml-4 text-gray-300 hover:text-accent-color">홈으로</a>
+          <Link href="/">
+            <div className="ml-4 text-gray-300 hover:text-accent-color inline-block">홈으로</div>
+          </Link>
         </div>
       </div>
     </div>

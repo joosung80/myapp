@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 
 interface FormData {
   name: string;
@@ -58,7 +59,7 @@ export default function Survey() {
       } else {
         throw new Error('Webhook 요청 실패');
       }
-    } catch (err) {
+    } catch {
       setError('제출 중 오류가 발생했습니다. 다시 시도해주세요.');
     } finally {
       setLoading(false);
@@ -139,7 +140,7 @@ export default function Survey() {
           </button>
         </form>
         <div className="mt-4 text-center">
-          <a href="/" className="text-gray-300 hover:text-accent-color">홈으로</a>
+          <Link href="/" className="text-gray-300 hover:text-accent-color">홈으로</Link>
         </div>
       </div>
     </div>
